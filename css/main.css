@@ -18,8 +18,8 @@ h1,h2{
 }
 
 figcaption{
-  font-size: .8rem
-  font-style:italic;
+  font-size: .8rem;
+  font-style: italic;
   text-align:center;
 }
 
@@ -37,10 +37,14 @@ nav a {
 }
 
 nav a hover{
-  color: #b42885
+  color: #b42885;
   text-decoration:underline;
 }
 
 .intro {
   font-size: lrem;
+}
+
+h1,h2 {
+  font-family: 'Patua One', sans-serif;
 }
